@@ -1,4 +1,3 @@
-
 #About/tech "Git"
 
 http://en.wikipedia.org/wiki/Git_%28software%29
@@ -36,4 +35,8 @@ https://github.com/jplusplus
 
 https://github.com/guardian 
 
+
+#run/install
+
+http://git-scm.com
 
